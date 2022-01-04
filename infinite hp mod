@@ -6,10 +6,10 @@ hp = get hp value
 start function
 hp = hp by int value
 
-a = 9999
+a = 99999
 while a != 1:
   hp = hp + 1
-  a = a * 999999999999
+  a = a * 9999999999999
   
 end function
 
